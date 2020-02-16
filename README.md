@@ -1,0 +1,2 @@
+# hermefruitshop
+Django eCommerce app
